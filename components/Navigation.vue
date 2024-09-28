@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full flex items-center justify-center z-20 relative">
+  <div class="w-full flex items-center justify-center z-40 relative">
     <div class="w-[90%] h-[10vh] flex items-center justify-between">
       <h1 class="text-[1.7rem] font-bold text-nowrap fs-1">Vox Odinson</h1>
 
@@ -52,7 +52,6 @@
       </button>
     </div>
 
-    <!-- Navigation for small screens with animation -->
     <transition name="dropdown">
       <div
         v-if="isOpen"
@@ -154,10 +153,10 @@ function toggleNav() {
 
 /* Transition for opening and closing the dropdown */
 .dropdown-enter-active {
-  animation: slideDown 0.5s ease-out forwards;
+  animation: slideDown 0.3s ease-out forwards;
 }
 .dropdown-leave-active {
-  animation: slideUp 0.5s ease-in forwards;
+  animation: slideUp 0.3s ease-in forwards;
 }
 
 /* Active link styles */

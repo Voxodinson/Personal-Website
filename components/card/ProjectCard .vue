@@ -36,7 +36,7 @@
         :key="index"
         :src="imageObj.img"
         alt="Project Image"
-        class="odd:mt-6 h-[340px] rounded-md"
+        class="lg:odd:mt-6 h-[300px] lg:h-[340px] rounded-md"
         :class="{
           'w-full sm:w-[80%] lg:w-1/3': images.length === 3,
           'w-full md:w-1/2': images.length === 2,

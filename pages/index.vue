@@ -32,7 +32,7 @@
     <div class="w-[90%]">
       <h3 class="fs-1 font-bold">My Skills</h3>
       <div
-        class="w-full grid lg:grid-cols-3 gap-10 mt-4 py-4 grid-cols-1 md:grid-cols-2"
+        class="w-full grid lg:grid-cols-3 gap-4 lg:gap-10 mt-4 py-4 grid-cols-1 md:grid-cols-2"
       >
         <BlogCard
           v-for="(card, idx) in BlogCardDatas.slice(0, 3)"
