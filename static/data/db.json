@@ -1,0 +1,160 @@
+{
+  "projectsCard": [
+    {
+      "sm_title": "Product Photography",
+      "title": "Paris secrets",
+      "text": "A photographer is a person who captures and creates images using a camera. Photography is both a science and an art, requiring technical skill and artistic vision. Photographers use their knowledge of light, composition, and perspective to create images that convey emotions, tell stories, or simply capture moments in time.",
+      "images": [
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/010e/d90c/37a175097020196c076fd75c18978b0e?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UyF5lF3OTeWjbh3Gl97F6oEgY7XkYMHJf50Cf6cpwrihX4MSaxKBPGz6WPvC3T6Uc5aLU6VVlTjgb76bhX-WApdWraLJgxu2yJ2qUf0DAKk0Z~AwQ4SdcMo3m9Dn26OXmbbpED3z3HsYI3sRc6WeldcLpXAPbWEXZtvfBfvRZgUq1n4FDxqPhvM2XLPwC05-xe7Gi8IG6MknPrWiyusIFZpWvKMnQIxrDiv4tWCboO2Shzm2MBrqQx9zsXi1Ckf2Z6AYG5cPzPPEcnP5IAPsy7mxTw2SPb8I1DcE4S9zmxQ3nHVR-JdRL1H9RpJoRJBWGZH6XYwCWY2Go7Y6XDTbAw__"
+        },
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/6b7c/4a61/f607a2a9a321f5b58948de391c2805ba?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HgEU0TmeigQ18k82Xg6FdPiiOZFF6-AwpmppmoQW-smLIhMEKBiJ8W4V1LRCzdFPc2bosrLQ4VaTEMUGBZwsXnJdXDRBYmasZ-0pf6H1tWtHn~kZ~SMEJDvokBfckOmfKgkmsxMwBsKsjwQciFePT0wk88jhGZKS2PHukYkRUm9-SK3sU9qsr6E7y61m0vi~JawpL2PMOFIZ4IVHPTP74RWRjDGZvWADAA7vrBoCIwnzw5F7cnvp~0nHWIf~cyLJ6DKNneNP-hE-~DQSK25PqAFq8eC3Bps-OkXaFbTsh8RtUSAf1mHYBYRtjiEESH7yGqvjiAjP2D9mGdAxUSNWrg__"
+        },
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/d7d9/be74/a16e82e21291e22f998c73dbad970f08?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nPYLzpKSOm8rcySwQwIGSRhuIZtscaz0-gIEDBz91e35KGFTFM-Qroi3utz0vqVPQlCerRvTTIBjJ90AXEDuUPqlntMVhV4A~G5zaBfZI6yIPMxMy1hl3Gylb-CU1owILSNFpbmMlukYXmbo7qG07IjJf4Bgc8NJ38agD6XlAIaE3kr4bNROaUi42ncdHegcWGn76J6KpEG4C7g4gEgR~bDJNqawBZwEpDRlrWTKFxwivfAYyljayzRjKoE0rU63aNoCb7kS84wu7Ip80h4qiO0qij9n8CRNIXPWj~Ae71lClYpVyib9K7FbX9Q66lJXzVTa-dortFFw9Rda5pEWpA__"
+        }
+      ]
+    },
+    {
+      "sm_title": "Portrait",
+      "title": "Oceanic feeling",
+      "text": "A photographer is a person who captures and creates images using a camera. Photography is both a science and an art, requiring technical skill and artistic vision. Photographers use their knowledge of light, composition, and perspective to create images that convey emotions, tell stories, or simply capture moments in time.",
+      "images": [
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/c71e/a683/4a01f2065e93b61139cb59e322b5296c?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B1AZepqJvfhSwqv5TKQjU26KEGrK2R8Y7TPC584o00E5n4YA3A0SbxE3kbDso9Se1~qO3o0m1F2my8boTYU5wHh-NemWzVGTEdcxBcTvBwvA-Nn0FjZBm~iJogAVtCSOlIO-hcLroO9~xXl6aM0Jpyh3uiEdtbGAAXIIwqgsd3W3bV004Cnak1SBkwACKT-Apm2~7kkMXvsj-KvNgkU2zMCULGBBAg9pfJTv4FJIgXRx-8wYQclGxpyCS83yu7CK6cuV9p0P06GLSbXdyqBIL1jaDdqwpxjpNV-KNHJN4fIJ2yxfXJDGq~C5mdxMRF0LT05TcNdNyl5vOWStSHA~NQ__"
+        },
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/c1f6/5779/b29266158eebb0d7d8a78312f4802988?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YKpEksOev6SSySUe7Hg5iNNgIxCiB3vawDf66X9HTjVPU9Pqo1xyvoFkPPCZEFVBqySR~CPDUjul9CnkcQuf0TB0fElgL4y-ShSdEOhtwyniOYTBZXhiVJ6iyHCceHKxEIF0kO6SAHOoTo8DKSgmqVz7Qk72Kx9hWrmpKUTtkfFX-X91DWi3fhlKLtwBU7CDoSvswJTjnEkR0OKWfvvo1Uo231OfsyQ~bxyEOYREEzqCVdT5rDiQbotmyf5QoqRNbriUr1GLf7TuSuha9-2IT9~oK-Fe6KxJyKMrbrHHO1Vy7MbCDilwd-Q4QAtxvKmkGK5NfPoMvs345qjne5LMFg__"
+        }
+      ]
+    },
+    {
+      "sm_title": "Food photography",
+      "title": "Pure summer garden",
+      "text": "A photographer is a person who captures and creates images using a camera. Photography is both a science and an art, requiring technical skill and artistic vision. Photographers use their knowledge of light, composition, and perspective to create images that convey emotions, tell stories, or simply capture moments in time.",
+      "images": [
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/4f33/c1fb/1a634b6f56cdab58d6e224e7a6ed1b83?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C5Pm2aT0dEHkNm3o3G8Qcy-HYnfjm3J5zoZ0VAXlr0Pf4Ie5ggh9oQzjSNPc-XrGrZox588uJEYThnhl~r4c27NncCr1pCH~BTfwXqNo6Kq5kK4mlu2V-wnMlPt8LdHt4mTg4xE9Q6JPXj69qqLHHvR8jhqDKc5iKPxmUHN1iiePslKZ69GHuBWn4bLwvhcHwAnKat0BGfHNQ50MsKtuOSbNGL6HesjWDzmM1fa0FPTqv~EB640sLsetS8N-HHOiIe0jqv0D7Z5pCcdtcf3o1rYKIECdl4Pv~MgKOZhCmo5wUwFTL6PevAMj3qhhHjSv7lCijrpWTessmnEEutAlFQ__"
+        },
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/7bfc/909a/c677295632c832050124e76e6d96f6eb?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KcFgoheWLTLNWpLm5zXy~yjLfQuRBVa2W206apcForbPBUMFqcjiIg3PnerdUUOLRgTtkAJpGa~~aqwHFq3D5EIakrE8oVOeTLe8OXj3I0~zuDm6fgzJlacJzYub2rZ8iDK2fnFiEAywy-ShPkjBwBfpptegTaS4mwILQFKVQCzl3c2kdwI~z~QoMb9R2pTC-dPtSTsv46XF4GjZJsTu6rDwp-IzSPE0b5hHOhDDnyllLriUFbcQcqamv22gkPNjsqH4D5jwzS8aOhrbp2xVrArb~cfftB6wi5VooFVz8F~X0LaXvg6ztozwxj8HvLPjquRD04Bd0af0qjMy8Jtb0w__"
+        },
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/0aa4/6b4d/c2a0f142fdb0a3aaa7a0e0909879f865?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=plDnJF9Ueg-pARoX5GPL9BXyaB3y-C~Sv-1QpjhONPV5jcV0FHbe4m9KOu2tYLZYRlyQ2eE9ZozufnyrhcJoXMLkszQ6rXFkoaQkiYVXpWBmBYc6j8jZ9zLvj2SnB~4~R6rxdyOrFL~p6X3~6g67QiDCki~mU5ozhrdVMrN4pcvPTcNEnd6ZPgdMdeNifcutgkEZw~BtlUOuOkFAJbalrLsex3aXrHAkrP8S48exQKOHcMyCjIbth6HLq5BCf~LlE1rU0GqVKK-NaKN3JFcd7gyvDCbSXV~CcGw4~qXoYX0OqBC2E9Dqb4RgpwRr52obNDvT139UpMgbFpSFu0rIMQ__"
+        }
+      ]
+    },
+    {
+      "sm_title": "Landscape",
+      "title": "Fairy tales",
+      "text": "A photographer is a person who captures and creates images using a camera. Photography is both a science and an art, requiring technical skill and artistic vision. Photographers use their knowledge of light, composition, and perspective to create images that convey emotions, tell stories, or simply capture moments in time.",
+      "images": [
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/296f/1e74/39b9cc42a858a3f03dc0c3feab31d753?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c4u922KZi0ebfEn5Er3EgnfZzraHIdXy~hYJkE0aqU7hTaPsh9Im-FSscU8BlybpwQSr~PTxrO38yqKw8ebeHjpURswAzcm8Zbllk8QyKHSk9pBxYbcbB5og-UYp4RwOr69d8h-8OG5e6hLdxb9wxzjMo6uaSNfD9POcUB6ztlabyQvhxpIN9G6Yh-VDal-tv0bvAP6fIx1Gzgz2BOmQ5SpUoP0bOP5AQp4dzWOaeaH8ipMM~a~Gy9HbkXRtxX7t90aOC0nMYwgbKByL~9Rm7biXJbwhenb8vQcWxcWWFzxkIqeme7O3Z-tEkToKrUK3SuKzp1zkWDia6FTcSpssSQ__"
+        },
+        {
+          "img": "https://s3-alpha-sig.figma.com/img/84c0/6482/a800779715e26f7faf0ba0dcfb50ff41?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=THNAbwEjaAvTXXQlsln3cjb3he-S8TBfNT3NVlDWZbLghuLH1WKd469XovfZWw0lLG6Bhag1IHepFr2svEyoR8ugTX8E05gICSfphr63pbl15LN1-5x0xtWiVxqllKUDN~qv2U5CWUnO~Na4q3MlXvzxAQDvkqlQ59wW0dK32eVmV4fKP0qN4Ne9oXXw4f384rnzLyU~kU8~NNQKANqci1KnzvUfV8ZDjql3rp12MSTMi8WzilxWdLTS5POAvWtW81RqATfCiygEFudBpOjUo7Uz5Ruce~ZzgIWqlFEGkswhnW6XO50uOES8UQbtSivXdG7SF8p2SI6RfpRno9I2Zw__"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    { "name": "Photography" },
+    { "name": "Brand Identity" },
+    { "name": "Graphics Design" },
+    { "name": "Copy Writing" },
+    { "name": "Creativity" },
+    { "name": "Team Working" }
+  ],
+  "blogCardDatas": [
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/d54c/54a7/6ddbd770012fa65c9414548846c02790?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=l-TqSss2BjqtdybU1EijhPhkRl8zT6RnU~ZwGj6ba8kTFjUmRHoADCFPYXi2BR~gEAYt-vZbgBSW~YklvFHkVCZGuidgukpKfNucemzYkFMMUHpSrroSSWyL5KGuZa2Eb7spTryc~L0Bqe0zkvfnzZRSvvRnHbQJFO04zPnobUB9RN6U1kRdus3sCsINLn5wDs22vKQAj4bXa-9CoOc9dWxSzDZTPAjdWPUlI5cFLxuX4bmf4fw1OVvubopSfArFH9yBXe-p77wJZtXIJWrjaG7SuMxYsAkHI7LulCIvkZFjHHaB6-~bF5IvWjndoJSxAHLTxy5M9hM7vsFGhooafg__",
+      "text": "Minim anim pariatur magna duis sit et dolor incididunt ",
+      "date": "16, Oct, 2024"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/613a/bb1f/fc87c2655f34b8c1747878aed417e6e1?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OrbAs5GPV2p807GlbepJNQveJO0tyqrpyyWRApEdBe382DAxP~YWjQyoSB-xGwoMWO1qRk7mRHXT3anW71uV3LP4q41n9nTmFBIiK7Q0yhEbbGXvxw3xxcSzd2mWEN0AcGoNpmxXU0J-cOxDdbTJV6pAjrT9JZSBHsnQO-oeJLcLanrQZeRt7c98u9FE4F6eR9rkNBP26vOLrU~eiAdT1XJDpXtJdlpgx6XvQyc90GDxws5D6DajxBXQv479RkR0ZlEhp1DKNDD6UMGjDPdKgOLo-wl8iOBeot5h9MhXgTd3sJPExWligLIK3~VBLa3~0NIvFi53C79RWAnlPd7Rog__",
+      "text": "Dolore nisi ipsum ullamco non officia cupi",
+      "date": "02, Oct, 2024"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/7fad/10da/d513c1350aa9cb49e42652091fd8cb9f?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BFzgU3tJgx9Wi0BWWuALPWo8b3A5HvCNKX39JjT9teMeKO09VOEbfRPdd8D4ItohmInd5-~wgIUWLj6IimHO3ZGuEZG9lNza6tpk4XMyailmuMiViWI3Ot1DL-1M4nKKPhzsWaFFax~LCquC5U7RsecNsZ1f2Cf02A0AOO4R6MXLx~oQujbYGPXHTP234eJKWzvsOuKkT9IKYvW~B4mUa9IIi32cOEKEgkKT9xi7GHsGM6pBi0uYC7cR511gUly7n7KFkt2~i0ZXmQWvPoQa~LX37TM~eZNCQ~QgNrZGiLDz1693vYRaVacRqalnBShBSfhhR4I7X9cAd35KN3PJuw__",
+      "text": "Consectetur in aute dolore ",
+      "date": "01, Oct, 2024"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/c0db/4bca/533b53013c868e73101c0264f7def810?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VlJkejYsgeYmlNfp-mGo6NHgp2b2dMYIY~IK2zYnbXx5FmoFviKAJJrp2NWJ0Ho~3R~lRB~L3L3d7MfyTE9N8cpf~kW~ZGIpd4VaGHoD0HQHIBmsTZpvJCsXpXN9hwPxKVIac4Tb9dcI3RcMVMoyTJvNLRPfWOp7~xsko~MDFO1AFSZ~NKeoFmiB-5vFtkRP1Udba58gCMUe37131BQ4vZt2Xm5nkHfIPPa-yVhzaTFZO2DUFEwpCGrGyfxPQqEQzfJDp5Dv5wY6SBlsbReZ5gE0MbzFcf0H1kyxY09kKzb~jDaxe2UNj4hoyoNh6L~-GlSUlb75xK~liOUp89fNvA__",
+      "text": "Sint dolore laborum ",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/13c1/2552/94fb558476767da6920b367792766b43?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a8~GmaUv9y72PHPqEY3S~y5WCh-bg7dcRRHjJmN8G6aVXz9d2l82~YhNcEQoGtzt37Sb3Ub6owMX1T1A5mUEZmm0Ou5--2hMrYZQnEorGuZFlTfoa1ZQorzplF~jUFA0na3Opu14NWk9VSus9BRlHdeLeSBS4deIMCewu7SkB30DVpKGxEGUT6qM2RNHjMoE4v3WT5I0luaez37Ilu2FJs99x2mXHmHhlLKsHPOkauUtFKQooKHcwAtAhMoSWbh0hsR2OVJBQc8HlzTnQK7AoS6Au49Ij~u2Xz0Bc2akcB6ZoYLMtfUhuEuhH~eFKLovMpefr228ORSVbb4RciwWyQ__",
+      "text": "Dolore nisi ipsum ullamco non officia cupi",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/267b/1be9/e776a6e397e0e0398803564661fee36a?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lrzW9rJM5pl2STfr6cjm6OOdD2fqxaRXXw638~aoEfb4znVnfJZKTuNb07CiTSmB63gj01CVoVmSwab5iSM90IPtW3XpStiNLKOBEyr-E5nziPgmXh4UonH-x430FS3foeka0CHpN-9tbEnVvIHVlLxe-cdZXAAf52ljf78X1OBGGWoCuSlDGK9sQaxNTrNeKtToUPCSiTomdWT~f0vDJfTl~J3s5d2Gf6mlDlpA9q2A6~SX0OqjPWIL5Tmp6xC-~J74ZogFJ4rjsGi6lexsl4SS-MNsHebFiRsRSTeRjO~9vTVqLPddqRPMa7cIek-CFZnsTgaT~OWJiwG~3d23Uw__",
+      "text": "Consectetur in aute dolore ",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/e4fd/0ea1/ed6200ab9213e8b1423b56fa09aca38c?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Yx~gxaXhBWDLKjEYRqOetlc~L3Cudrhmkm3QTA4O5GRtTygvqN~6GzzQskym5Vq~-~OaAW~Z4e2OCS~spWwjrYjtcnWwRc3BKhXZWifHyKUqf5VVj1CS98RbQWzWxxkWYgt4LGYWuaC-6dyoX7raCqa8eofKIuFwCkRJIkrorNRGCQXy96XLwrQXnr5F6BoiUx92OGmshsGzBqLe~GSY9DP~RF7Od1EmPwN4vx38Q3RjHMvnpkptfGi8Qm8n857Pp3Z8f~zAISgSvg7rDQqIdfj5fd9uzknXli1pwRz~gbjUfgJMOxMCU3a1zNRMDPipq8RuMDW0iYW5tPKqHkwJOw__",
+      "text": "Nulla ex voluptate aute pariatur elit non ",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/e03e/a13b/9b8eeef6069635629527f38fec8f4be0?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J6pr5~Xj~VC8SYcJdbnqfkWkoJQ1Q6aLsezNzd2Q2nQOnRJMch4zHkWY9G~XK4ne-3FH9CVl~xBJCtY817e7HDxooDj9yLmggxJyk6ND4FTDkQ~UQzBEPp4Y8RhXnOVHrjGfPdpTyBd8nUH3Ln84wSHghZOJUiyd0SOYBm5hRX20M6yTZm-Z8PBnPXrgw~A5zqzREBUtc8Mi3UMMAqWBkUXU5JAOO3AHxk5KkR2UH8AF8sKxWOvBMRx0DiWEXREGpDPLqPQfTBghld8H6JlOg36XCAcYDvftfG-DO9q1DLrc50K0oLQHyngCg4HTfsAGm9T3fxB11D014ghDV9gN-g__",
+      "text": "Laborum in laborum est",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/3959/cefb/00aad7caf1c91698b02439f3e199f8ed?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QkpWfxYnaZkIsnz6dL-RDYr89vHB4QWUoDDxXuajt0nsuha6GBD-6wbqqsxHY6ikIfoJQ4nnYyY8HlMvPhJmbBoJnh5NGnL~x2tfAZzoV282ZU38YUtz0u1s-P9ZMLTYg20N7fxIJ3EUjo~DZEEVwzKxiA9SdHxKcl4~OczuODgT4u~icdYulPKgTcf9heSa0TtugHLJOKend7WN9ZYLkS5gCo5ml-6MJt~ZzoJmxJy537Ht2D5XSOdAZo3smH~8p-FpMJX4WPjLL6NCxVyybFPp65oHUx3BvNgdUESSHjwYrMM2H75oLST9lCM51dvbbCybQFwtyNVICCe0zRWncg__",
+      "text": "Veniam deserunt quis incididunt laboru",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/98ef/ca69/7b65eadbd4d2cf4778b58540b61029c3?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Yh5YU4kjh36slDAFei2m6zWE1fc0tYiuCo1ydTFDRDtQrtFvSGjj~~bgFKz7rO4CoI5enESJ3zc5Qaz9pC5CiWRA-P4Trh~6vsmE6053DKG9~WETpcB~jQCaK3B4pvXWuKf0cPTuiC3gHBFQNrUhI1f2mNpQFWjNhUK0hz~IaAJh6Qf258gFLBMHR43sOexhSOkXgdHwKXv~EqGt9jBxDNPI5xuSm5Q7~e51-HTfYdwOswRmY4613G4PkDbZSSqLWqCwT1m1pVrpdXOhlVMZ4p129uQDTEN-H867Pw2utFazKg6Jb-bbNBQG0uD4ywVMzaIN3aik77-N5k3UhwYXWw__",
+      "text": "Nostrud aliqua amet ",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/5e46/b5ad/d9bbc90b3ad37ec08f536ae7a5052198?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=E5WBvdEG1Tzw4hnQrQeFdiL33yJbOXkO~ialDs-jd8eQDm2kNCqob8odFOApY4EmQBpkYlkXZagbm6jd9tlawzrIaXzY9mKf6eGJvTnYEFr0bTXHT6GU0ZaQW8m6GEbeG5W~EwQa4dSKE-Z-WvZqu2v9yj-3y0ulDjTz2n2ULXCd-DsGVjxRJ1E9CPUNrm51RvIpx3nWKYLzHfooA-8t26DGHG3PiMEXWHP9KqsnR73PQny1eC9RiC~~wDw83mMCSYspmFU-sEWly19nzYrlXN3pggcHqn2nX0MwRGMrsuFPLFx-fItp-7sMOyPTzmcybSsvloDBuS9-Mj7OpZYWVQ__",
+      "text": "Officia amet officia magna ullamco amet ",
+      "date": "Oct 16, 2022"
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/774c/42b1/873a82986074374007409b5024083c60?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nTNVvF87f2qnlpHGbuJQ~~IYxgHBoXlW-4JEvCZJAO9dnztV1jat5FJKn6fKv5Z6nXT6f1d14X-Uuyf6DNrHc8ylauW9URo13H-4sxD4E9yEdcqQ~tolVAv4vWmIBtMitrqYtjDJ9pJxJXxECSBaupS1b6d1uVRDL4EUsmgP-E27RZatDZgSP0F3OGVx4qNeyxaFdgG0oKLBTr1VMHsAJG1Cv1UcAQrrV8u2ys3-OXWncnPy5TN-DQS4cx-HJnYdR0ViflxobTgF~Skhx7-H63rjKy0akU9rCnFURYFvBfUhTbOOl0Q9bwez0zFtWt6Husp9aIgMWbEWlNMoEV42Wg__",
+      "text": "Qui ex irure dolor",
+      "date": "Oct 16, 2022"
+    }
+  ],
+  "Testimonials": [
+    {
+      "sm_title": "Testimonials",
+      "name": "Name Client -  Company",
+      "text": "Sit veniam qui tempor ex ipsum voluptate deserunt cillum cillum excepteur elit mollit commodo fugiat enim veniam qui tempor ex ipsum voluptate ",
+      "img": "https://s3-alpha-sig.figma.com/img/d481/3600/0785172a07fa95d9ea9d28dd7fa05b80?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mof~hbH~mD6hlFHOwHiVwcH56xi6uOp-Sj0xwOPxGDZ3YptolgfBG8vxDohANiKOEfGWAVbRz3YQL647AQ7uUXM6uNsbCL9A9xXz8WAPRXlrO79-B6mkMu2g8-XFPfTQ3yScX9T6P4yrLHGVwV6JGZAUG3eqoRjYIEQG2XSvVP5d94P7XhkAofNGpEenSnHoq3OVpnErDCt2TceOrj62RQFM-k12M-j4ayZ8PJmryVfqg4B7Wsyu-RtO2ozx5TWM5i9jneHWS6MculVYBW60yAhQVXhkT8RFH0AQdNuxARpMRWIVgcDP6nHHzMv~ppKXC9F8uvMufaLKWNVVCQJMlg__"
+    },
+    {
+      "sm_title": "Testimonials",
+      "name": "Name Client -  Company",
+      "text": "Sit veniam qui tempor ex ipsum voluptate deserunt cillum cillum excepteur elit mollit commodo fugiat enim veniam qui tempor ex ipsum voluptate ",
+      "img": "https://s3-alpha-sig.figma.com/img/4101/5579/fc81675edba994d62872bce9fb94e024?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=btWRkD7Lb3jSnzvFzgLcEEGrcTRbS2SZA~r79aiftDVN3We3qTnzbFwAMMZ5b6z8hDQAxObOZX0~YCirZEJlRst3tlSDLp-FHWric8WpzL0pfLcIf6dTuQbnywqA1HKpdVk41GtSt2fihf41EFs6MGDWWtMmQHuqisGQAcX1WT2j~Pzkh7p9XrVhjGaskfpdiylBkW88fJV81AEr4dYjtv-TCdV3xagxwE-FTQndnXGWa3uXLFZxaoia2qhhlKujrQNYwVjkwn3X5uwoSgLtzjqyfabhXu-iCaxY-UOOAyDc5r6~1RJ3tHE1PW1F2faQIjqzJKI-6AmfOtur4x7FXQ__"
+    }
+  ],
+  "otherProjectCard": [
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/2625/9091/8eacf68b61e370917bb5f375c2f994d2?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=doucnUsz5leDFuTmrIQfRdatpJpocjmzuzNbTwSg8845mvzmfhn3DoUCJjOcVXKStoysBBrHfEkPxgQv32aetQrd0f9Mcxjqa02uTwgrRu4mlmDgJer5GpaXf7SCtfzTvIoQXJRIdPtZBk~NXKxLqETMoSsHWVBOk9J9Ndbtch01U2m14UsSejFNvkTNsv-IzUkM8zr3IBF8GAZmYty3qFGtxsLrywhX-RqWvggH8SKAio6TFWATNUxfQL097~SIu3dzTf4uitpEFW-fkLY6S41iVUt7a1HprWWFT7wtExx0Dsn0cXvXKPxufJ6LT2myRFtTRqrQgMOFQDWBrN8VfA__",
+      "name": "My project title "
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/3dbb/ba4a/76c6dda860e1d0d23a2bba70d5b04867?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qHMzFpO4v38vlcDyN~R57QlzO4BdvyHIB4ms2FCBIBnjZYuKdCUkcNsYlAMFg4mkmxquShSVdwXocKWz92YXB~-0CKmunhnZxWYI-aJA2wgMQFO12dJWi02VUP2Srw2yzy8MkzMWP6Ttszc8F-fywbjm19IBNnKMaLFNp-hWf3j7TBcdMXn2xEK-aqH2PW8vuliifDYWubjWuqN0wVXPkMGrgabckFBq1YzOJHDwY0Eo0FPyHhg3~hYcu0FrgbuZP13sWBL2GNtqJ42Id1~MMghGaep6cLlLf7Ia5JnPSnTF7L9ah9oUiOn6movMHJiGVi5rCYebtcd5F8SEjmsOUQ__",
+      "name": "My project title "
+    },
+    {
+      "img": "https://s3-alpha-sig.figma.com/img/f2a6/93bd/feb717b8c778b8b761c6b0056d63461a?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p8dIHdfEJ2sXgUaL1S~N5e0LRhXvciHw79dQ4kHSPCyBn7MHWftxsBLSh0~bvNlaUnAZUy40zudG6DU1LqLzgVZQqb6gPn7LXdHeAm7WR8xX5~hJlHgAF9ORgDowfnmRBiOHMyN7l2903auwgjbwKsWl6T5NWCCDuGcyDyU6qxHSMcdcfXMRugQSbdogzbTOvBZ6JNcdoPFRtBDOZQUlPRTz7uJCL-AOewU6JrzMmp~kb0lw5RtkSAv0zQgA6fnCGiTkMXlb2UvUE0Pw-yA1fEsihBOiHx2F2zQdNGsBnvyMYl5QgAbPJ5ouuRwnZutXnJOCKCnIbASmQd-K3ArMhg__",
+      "name": "My project title "
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transition {
+  @apply transition-all duration-200 ease-in-out;
+}
+.fs-1 {
+  font-size: clamp(1.2rem, 2.5vw, 2.2rem);
+}
+.fs-2 {
+  font-size: clamp(1rem, 2.5vw, 1.4rem);
+}
+.fs-3 {
+  font-size: clamp(0.8rem, 2.5vw, 1rem);
+}
+.p-fs {
+  font-size: clamp(0.8rem, 2.5vw, 1rem);
+}
+.primary-button {
+  @apply rounded-md border-[1px] border-[#FF003D] px-4 w-fit text-[#FF003D] hover:bg-[#FF003D] hover:text-white transition;
+}
+.primary-border {
+  @apply rounded-md border-[1px];
+}
